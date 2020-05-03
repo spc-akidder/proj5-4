@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffee Finder</string>
+    <string name="drowsypoetTitle">The Drowsy Poet</string>
+    <string name="drowsyPoetAddress">86 Brent Ln, Pensacola, FL 32503</string>
+    <string name="foskoTitle">Fosko Coffee Barre</string>
+    <string name="foskoAddress">8 S Palafox Pl, Pensacola, FL 32502</string>
+    <string name="bodaciousTitle">Bodacious Brew</string>
+    <string name="bodaciousAddress">407 S Palafox St C, Pensacola, FL 32502</string>
+    <string name="beachyTitle">The Beachy Barista</string>
+    <string name="beachyAddress">301 N Navy Blvd, Pensacola, FL 32507</string>
+</resources>
